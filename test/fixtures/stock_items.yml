@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  unit: MyString
+  rate_of_duty: 9.99
+  opening_balance_quantity: 9.99
+  opening_balance_rate: 9.99
+
+two:
+  name: MyString
+  unit: MyString
+  rate_of_duty: 9.99
+  opening_balance_quantity: 9.99
+  opening_balance_rate: 9.99
